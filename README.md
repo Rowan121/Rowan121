@@ -1,6 +1,6 @@
 ## Hi there 👋. My name is Rowan, a student in the Informatics program at the University of Washington.
 
-👉 **[Click here for my project!](https://github.com/Rowan121/ground-truthing)**
+👉 **[Click here for my project!](https://github.com/Rowan121/they-say)**
 
 ## Featured project
 
